@@ -1,2 +1,3 @@
 # CHEM531
-CHEM 531 Introduction to Molecular Quantum Mechanics
+
+Code from CHEM 531 Introduction to Molecular Quantum Mechanics taught by Dr. Joel Bowman at Emory University.
